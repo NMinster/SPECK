@@ -1,7 +1,9 @@
 # SPECK
 A Python adaptation of the R SPECK implementation in R. 
 
-The following pseudocode was used as a guide, including the methods section described in the SPECK paper (). 
+SPECK is a single cell Surface Protein abundance Estimation using CKmeans-based clustered thresholding (SPECK). 
+
+The following pseudocode was used as a guide, including the methods section described in the SPECK paper (https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad073/7197032). 
 
 
 Algorithm 1 SPECK Algorithm
